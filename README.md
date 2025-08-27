@@ -1,5 +1,5 @@
 # Set Efficiency Mode
-Set Efficiency Mode is a lightweight C++ console application that lets you enable EcoQos/Efficiency Mode for any application. Users can easily add apps via a simple configuration file and run the with no console!
+Set Efficiency Mode is a lightweight C++ console application that lets you enable EcoQos/Efficiency Mode for any application. Users can easily add apps via a simple configuration file and run it no console!
 
 <img width="1649" height="920" alt="image" src="https://github.com/user-attachments/assets/f4d99932-2b5c-4339-a8f5-5bbe3427f067" />
 
@@ -9,7 +9,7 @@ Set Efficiency Mode is a lightweight C++ console application that lets you enabl
 1. Download and the [Set Efficiency Mode Zip](https://github.com/QuakedK/Set-Efficiency-Mode/releases/download/EfficiencyMode/SetEfficiencyMode.zip).
 2. Right-click & extract it.
 3. Edit and add the apps of your choosing to the Config.txt.
-4. Once down run SetEfficiencyMode.exe as admin!
+4. Once downloaded, run SetEfficiencyMode.exe as admin!
 
 # #2 Config Example and Format
 ```
