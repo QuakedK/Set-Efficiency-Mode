@@ -10,7 +10,7 @@ Set Efficiency Mode is a lightweight C++ console application that lets you enabl
 > [!NOTE]
 > Efficiency Mode (EcoQoS) is only available on Windows 11. Windows 10 does not support Efficiency Mode, even though Task Manager may show a leaf icon for suspended UWP apps.
 
-1. Download [VCRumtimes](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+1. Download [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 2. Download the [Set Efficiency Mode Zip](https://github.com/QuakedK/Set-Efficiency-Mode/releases/download/EfficiencyMode/SetEfficiencyMode.zip).
 3. Right-click & extract it.
 4. Edit and add the apps of your choosing to the Config.txt.
